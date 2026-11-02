@@ -64,11 +64,11 @@ public class StudentProfile {
 
  public static void main(String[] args) {
   StudentProfile student = new StudentProfile(
-    " AKUSOBI AKACHUKWU DANIEL",
-    " 25/18055 ",
+    " ARANSIOLA RAPHAEL YINOLUWA ",
+    " 25/17795 ",
     " Computer Science ",
     "Second Year",
-    17);
+    21);
 
   student.displayProfile();
  }
