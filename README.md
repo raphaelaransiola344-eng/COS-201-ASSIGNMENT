@@ -33,7 +33,7 @@ This respository contains Java programs developed for COS 201 practical assignme
   ### Objectives
   To implement programs using variables,
 
-  ##Week 03 Practical Assignment
+  ## Week 03 Practical Assignment
   Java programs covering variable, data types, expressions, and user input/output using the `scanner` class.
 
   ### Programs Included
