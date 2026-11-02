@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # COS 201 - Computer Programming I
 
 # ARANSIOLA RAPHAEL ARANSIOLA
